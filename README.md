@@ -81,7 +81,4 @@ nohup ./minerProxy -pool ssl://asia2.ethermine.io:5555 -port 18888 &
 ./minerProxy -pool tcp://eth-hk.flexpool.io:4444
 ```
 
-![img_2.png](img_2.png)
-![img.png](img.png)
-![img_1.png](img_1.png)
 
